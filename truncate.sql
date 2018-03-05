@@ -1,0 +1,11 @@
+SET FOREIGN_KEY_CHECKS=0;
+Truncate Choices ;          
+Truncate Exam    ;          
+Truncate Grades  ;          
+Truncate Login   ;          
+Truncate Question;          
+Truncate Response;                 
+Truncate Student ;          
+Truncate TestQ   ;          
+Truncate TotalG  ;          
+SET FOREIGN_KEY_CHECKS=1;
